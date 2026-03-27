@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
-- 🌱 I’m currently learning **Building Agents**
+- 🌱 I’m currently learning to **Build Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CreativitySayan](https://github.com/CreativitySayan)
 
