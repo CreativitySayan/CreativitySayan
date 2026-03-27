@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sayan Das</h1>
-<h3 align="center">A passionate frontend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Travel Website](https://github.com/CreativitySayan/Travel-Website)
 
-- 🌱 I’m currently learning **Docker, Full-Stack Development with Java**
+- 🌱 I’m currently learning **Building Agents**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CreativitySayan](https://github.com/CreativitySayan)
 
-- 💬 Ask me about **Frontend & Backend**
+- 💬 Ask me about **Frontend,Backend,Machine Learning**
 
 - 📫 How to reach me **sd4win@gmail.com**
 
